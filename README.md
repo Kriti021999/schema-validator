@@ -1,5 +1,6 @@
 YAML/JSON Schema Validator
 ==========================
+added new line here
 Schema validation utility for YAML/JSON files against a pre defined schema
 
 ![LICENSE](https://img.shields.io/npm/l/schema-validator)
